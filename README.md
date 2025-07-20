@@ -20,7 +20,7 @@ A full-featured, responsive Netflix UI clone built with **React** + **Vite**, po
 - **Authentication**: Supabase Auth
 - **API**: [The Movie Database (TMDB)](https://www.themoviedb.org/documentation/api)
 - **Proxy**: [corsproxy.io](https://corsproxy.io/) (used to bypass CORS)
-- **Hosting**: [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/) recommended
+
 
 ---
 
