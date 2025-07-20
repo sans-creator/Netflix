@@ -8,45 +8,8 @@ A full-featured, responsive Netflix UI clone built with **React** + **Vite**, po
 
 ---
 
-## 📂 Folder Structure
-Netflix/
-├── node_modules/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Footer/
-│   │   │   ├── Footer.jsx
-│   │   │   └── Footer.css
-│   │   ├── Navbar/
-│   │   │   ├── Navbar.jsx
-│   │   │   └── Navbar.css
-│   │   └── TitleCards/
-│   │       ├── TitleCards.jsx
-│   │       └── TitleCards.css
-│   │
-│   ├── pages/
-│   │   ├── Home/
-│   │   │   ├── Home.jsx
-│   │   │   └── Home.css
-│   │   ├── Login/
-│   │   │   ├── Login.jsx
-│   │   │   └── Login.css
-│   │   └── Player/
-│   │       ├── Player.jsx
-│   │       └── Player.css
-│   │
-│   ├── App.jsx
-│   ├── supabase.js  
-│   ├── index.css
-│   ├── main.jsx
-│
-├── .gitignore
-├── index.html
-├── vite.config.js
-├── package.json
-├── package-lock.json
-├── README.md
+<img width="1021" height="898" alt="image" src="https://github.com/user-attachments/assets/dc97ab16-0019-4ba4-94c7-9731e8f1306e" />
+
 
 
 ---
